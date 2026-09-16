@@ -3,3 +3,5 @@ git clone: Sirve para descargar o crear una copia local exacta de un repositorio
 git commit: Se usa para guardarel en el historial los cambios y con(-m) para agregar un comentario
 
 git push: Sirve para subir los Commits de la computadora al repositorio 
+
+git status: Sirve para mostrar el estado actual de tu proyecto
