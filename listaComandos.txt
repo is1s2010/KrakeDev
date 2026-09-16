@@ -1,3 +1,5 @@
 git clone: Sirve para descargar o crear una copia local exacta de un repositorio remoto (como GitHub) en mi computadora.
 
 git commit: Se usa para guardarel en el historial los cambios y con(-m) para agregar un comentario
+
+git push: Sirve para subir los Commits de la computadora al repositorio 
