@@ -4,4 +4,6 @@ git commit: Se usa para guardarel en el historial los cambios y con(-m) para agr
 
 git push: Sirve para subir los Commits de la computadora al repositorio 
 
-git status: Sirve para mostrar el estado actual de tu proyecto
+git status: Sirve para mostrar el estado actual de tu Proyecto
+
+git add: Sirve para decirle a GitHub q específicos quieres incluir en tu próximo guardado
